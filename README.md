@@ -1,4 +1,4 @@
-# freetemplates
+# GDPR and ISO 27001 templates
 The templates on this page are made by the people of ICT Institute. We use these templates in our training sessions and our advisory work. We decided to make our templates available to anyone with hardly any restrictions. They are provided under the Creative Commons license Attribution license. You can do the following with the templates:
 
 - Share. You can share the templates and any documents made with these templates freely, with any one that you want to share it with.
