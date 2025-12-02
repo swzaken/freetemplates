@@ -8,6 +8,8 @@ The templates on this page are made by the people of ICT Institute. We use these
 
 - [**Free template - Project plan.docx**](Free%20template%20-%20Project%20plan.docx) - A project plan template for planning and managing information security, GDPR compliance, or ISO 27001 implementation projects. This template helps structure project activities, timelines, resources, and deliverables for organizational compliance and security initiatives.
 
+- [**Template-GDPR-Data-Processing-Agreement.docx**](Template-GDPR-Data-Processing-Agreement.docx) - A GDPR data processing agreement template that defines roles, responsibilities, and safeguards for processing personal data, including data subject rights, security measures, sub-processor conditions, international transfers, and audit rights.
+
 ## License
 Templates are provided under the Creative Commons license Attribution license. You can do the following with the templates:
 
