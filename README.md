@@ -10,7 +10,7 @@ The templates on this page are made by the people of ICT Institute. We use these
 
 - [**Template-GDPR-Data-Processing-Agreement.docx**](Template-GDPR-Data-Processing-Agreement.docx) - A GDPR data processing agreement template that defines roles, responsibilities, and safeguards for processing personal data, including data subject rights, security measures, sub-processor conditions, international transfers, and audit rights.
 
-- [**ISO-27001-Suppliers-register.xlsx**](ISO-27001-Suppliers-register.xlsx) - An ISO 27001 suppliers register template to record and assess suppliers, including the documented and practical requirements, and thier assessments, supporting Annex A supplier relationship requirements.
+- [**E9 - Supplier register.xlsx**](E9%20-%20Supplier%20register.xlsx) - An ISO 27001 suppliers register template to record and assess suppliers, including the documented and practical requirements and their assessments, supporting Annex A supplier relationship requirements.
 
 ## License
 Templates are provided under the Creative Commons license Attribution license. You can do the following with the templates:
