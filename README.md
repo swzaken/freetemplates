@@ -9,6 +9,7 @@ See [our website](https://ictinstitute.nl/free-templates/) for more information.
 ### AI Act
 
  - <a id="ai-policy-template-docx"></a>[**AI policy template V1.0.docx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/AI%20Act/AI%20policy%20template%20V1.0.docx) - A comprehensive AI policy template that outlines principles and rules for acceptable use of AI systems. It covers acceptable use principles, privacy aspects and AI Act compliance, AI and coding guidelines, approved AI services, training and awareness requirements, and includes guidelines for assessing AI use. The template addresses risks associated with public AI tools like ChatGPT, Gemini, DALL-E, and coding assistants, and provides guidance on transparency, verification, confidentiality, and GDPR compliance.
+ - <a id="ai-fria-template-docx"></a>[**FRIA assessment template V2.0.docx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/AI%20Act/FRIA%20assessment%20template%20V2.0.docx) - A Fundamental Rights Impact Assessment (FRIA) template to identify, assess, and document potential impacts of AI systems on fundamental rights, including risk identification, evaluation of likelihood and severity, and definition of mitigation and monitoring measures in line with AI Act requirements.
 
 ### GDPR
 
