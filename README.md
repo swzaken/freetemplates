@@ -21,7 +21,7 @@ See [our website](https://ictinstitute.nl/free-templates/) for more information.
 
 ### ISO 27001
 
-- <a id="iso-project-plan-docx"></a>[**Free template - Project plan.docx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/ISO27001/Project%20plan/Free%20template%20-%20Project%20plan.docx) - A project plan template for planning and managing information security or ISO 27001 implementation projects, including activities, timelines, and deliverables.
+- <a id="iso-project-plan-docx"></a>[**Project plan.docx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/ISO27001/Project%20plan/Project%20plan.docx) - A project plan template for planning and managing information security or ISO 27001 implementation projects, including activities, timelines, and deliverables.
 - <a id="iso-assets-risks"></a>[**Assets-and-risks-ISO-27001.xlsx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/ISO27001/Assets-and-risks-ISO-27001.xlsx) - Template for maintaining an asset inventory and associated information security risks in line with ISO 27001 risk management requirements.
 - <a id="iso-authorisation-matrix"></a>[**Authorisation matrix.xlsx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/ISO27001/Authorisation%20matrix.xlsx) - Authorisation matrix template mapping users, roles, and access rights to systems and information.
 - <a id="iso-bcm-docx"></a>[**Business Continuity Management.docx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/ISO27001/Business%20Continuity%20Management/Business%20Continuity%20Management.docx) - Business continuity management template describing continuity plans, responsibilities, and recovery strategies.
