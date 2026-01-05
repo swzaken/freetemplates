@@ -34,6 +34,10 @@ See [our website](https://ictinstitute.nl/free-templates/) for more information.
 - <a id="iso-laws-regs"></a>[**Summary of laws and regulations.docx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/ISO27001/Summary%20of%20laws%20and%20regulations/Summary%20of%20laws%20and%20regulations.docx) - Summary template for applicable laws, regulations, and contractual requirements affecting information security.
 - <a id="supplier-register-template"></a>[**Supplier register.xlsx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/ISO27001/Supplier%20register.xlsx) - An ISO 27001 suppliers register template to record and assess suppliers, including the documented and practical requirements and their assessments, supporting Annex A supplier relationship requirements.
 
+### Extra
+
+- <a id="extra-isms-notion-pdf"></a>[**How_to_implement_your_ISMS_in_Notion.pdf**](https://raw.githubusercontent.com/swzaken/freetemplates/main/extra/How_to_implement_your_ISMS_in_Notion.pdf) - A guide for implementing your ISMS in Notion, providing practical instructions and best practices for setting up and managing your ISMS documentation and processes using Notion.
+
 ## License
 Templates are provided under the Creative Commons license Attribution license. You can do the following with the templates:
 
