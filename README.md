@@ -4,10 +4,24 @@ The templates on this page are made by the people of ICT Institute. We use these
 
 See [our website](https://ictinstitute.nl/free-templates/) for more information and check out how to implement ISO 27001 with this ISMS template kit on our YouTube channel [@SieuwertExplains](https://www.youtube.com/@sieuwertexplains)
 
-- <img src="assets/ICTI%20logo%20small%20transparent.png" alt="ICT Institute" width="50" height="50" /> See [our website](https://ictinstitute.nl/free-templates/) for more information.
-- <img src="assets/330px-YouTube_icon.png" alt="YouTube" width="50" height="50" /> Check out how to implement ISO 27001 with this ISMS template kit on our YouTube channel [@SieuwertExplains](https://www.youtube.com/@sieuwertexplains).
-- <img src="assets/vanta_partner.png" alt="Vanta" width="50" height="50" /> ICT Institute has joined the Vanta partner programme to combine hands-on ISMS support with a compliance platform that reduces manual evidence collection and helps keep controls active throughout the year. [Read the post](https://ictinstitute.nl/ict-institute-vanta-partner/).
-- <img src="assets/notion_small_logo.png" alt="Notion" width="50" height="50" /> ICT Institute provides a free Notion Risk Register template to help organizations set up a core ISO 27001 risk management process in a practical, collaborative workspace. [Read the post](https://ictinstitute.nl/using-notion-for-your-isms/).
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none; width: 50px; min-width: 50px; padding: 4px 10px 4px 0; vertical-align: middle;"><img src="assets/ICTI%20logo%20small%20transparent.png" alt="ICT Institute" width="50" height="50" /></td>
+    <td style="border: none; padding: 4px 0; vertical-align: middle;">See <a href="https://ictinstitute.nl/free-templates/">our website</a> for more information.</td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 50px; min-width: 50px; padding: 4px 10px 4px 0; vertical-align: middle;"><img src="assets/330px-YouTube_icon.png" alt="YouTube" width="50" height="50" /></td>
+    <td style="border: none; padding: 4px 0; vertical-align: middle;">Check out how to implement ISO 27001 with this ISMS template kit on our YouTube channel <a href="https://www.youtube.com/@sieuwertexplains">@SieuwertExplains</a>.</td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 50px; min-width: 50px; padding: 4px 10px 4px 0; vertical-align: middle;"><img src="assets/vanta_partner.png" alt="Vanta" width="50" height="50" /></td>
+    <td style="border: none; padding: 4px 0; vertical-align: middle;">ICT Institute has joined the Vanta partner programme to combine hands-on ISMS support with a compliance platform that reduces manual evidence collection and helps keep controls active throughout the year. <a href="https://ictinstitute.nl/ict-institute-vanta-partner/">Read the post</a>.</td>
+  </tr>
+  <tr>
+    <td style="border: none; width: 50px; min-width: 50px; padding: 4px 10px 4px 0; vertical-align: middle;"><img src="assets/notion_small_logo.png" alt="Notion" width="50" height="50" /></td>
+    <td style="border: none; padding: 4px 0; vertical-align: middle;">ICT Institute provides a free Notion Risk Register template to help organizations set up a core ISO 27001 risk management process in a practical, collaborative workspace. <a href="https://ictinstitute.nl/using-notion-for-your-isms/">Read the post</a>.</td>
+  </tr>
+</table>
 
 ## List of templates
 
