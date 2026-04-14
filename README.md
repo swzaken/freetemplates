@@ -2,12 +2,10 @@
 
 The templates on this page are made by the people of ICT Institute. We use these templates in our training sessions and our advisory work. We decided to make our templates available to anyone with hardly any restrictions. 
 
-See [our website](https://ictinstitute.nl/free-templates/) for more information and check out how to implement ISO 27001 with this ISMS template kit on our YouTube channel [@SieuwertExplains](https://www.youtube.com/@sieuwertexplains)
-
 <table>
   <tr>
     <td width="70" valign="middle"><img src="assets/ICTI%20logo%20small%20transparent.png" alt="ICT Institute" width="50" height="50" /></td>
-    <td valign="middle">See <a href="https://ictinstitute.nl/free-templates/">our website</a> for more information.</td>
+    <td valign="middle">See <a href="https://ictinstitute.nl/free-templates/">our website</a> for more in-depth articles and more detiled guidance.</td>
   </tr>
   <tr>
     <td width="70" valign="middle"><img src="assets/330px-YouTube_icon.png" alt="YouTube" width="50" height="50" /></td>
