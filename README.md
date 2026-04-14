@@ -17,7 +17,7 @@ The templates on this page are made by the people of ICT Institute. We use these
   </tr>
   <tr>
     <td width="70" valign="middle"><img src="assets/notion_small_logo.png" alt="Notion" width="50" height="50" /></td>
-    <td valign="middle">ICT Institute provides a free Notion Risk Register template to help organizations set up a core ISO 27001 risk management process in a practical, collaborative workspace. <a href="https://ictinstitute.nl/using-notion-for-your-isms/">Read the post</a>.</td>
+    <td valign="middle">ICT Institute provides a free Notion ISMS template to help organizations set up a core ISO 27001 risk management process in a practical, collaborative workspace. <a href="https://ictinstitute.nl/using-notion-for-your-isms/">Read the post</a>.</td>
   </tr>
 </table>
 
