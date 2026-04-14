@@ -13,7 +13,7 @@ The templates on this page are made by the people of ICT Institute. We use these
   </tr>
   <tr>
     <td width="70" valign="middle"><img src="assets/vanta_partner.png" alt="Vanta" width="50" height="50" /></td>
-    <td valign="middle">ICT Institute has joined the Vanta partner programme to combine hands-on ISMS support with a compliance platform that reduces manual evidence collection and helps keep controls active throughout the year. <a href="https://ictinstitute.nl/ict-institute-vanta-partner/">Read the post</a>.</td>
+    <td valign="middle">ICT Institute has joined the Vanta partner programme to combine hands-on ISMS support with a compliance platform to reduces manual evidence collection. <a href="https://ictinstitute.nl/ict-institute-vanta-partner/">Read the post</a>.</td>
   </tr>
   <tr>
     <td width="70" valign="middle"><img src="assets/notion_small_logo.png" alt="Notion" width="50" height="50" /></td>
