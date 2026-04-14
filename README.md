@@ -4,6 +4,11 @@ The templates on this page are made by the people of ICT Institute. We use these
 
 See [our website](https://ictinstitute.nl/free-templates/) for more information and check out how to implement ISO 27001 with this ISMS template kit on our YouTube channel [@SieuwertExplains](https://www.youtube.com/@sieuwertexplains)
 
+- ![ICT Institute](assets/ICTI%20logo%20small%20transparent.png) See [our website](https://ictinstitute.nl/free-templates/) for more information.
+- ![YouTube](assets/330px-YouTube_icon.png) Check out how to implement ISO 27001 with this ISMS template kit on our YouTube channel [@SieuwertExplains](https://www.youtube.com/@sieuwertexplains).
+- ![Vanta](assets/vanta_partner.png) ICT Institute has joined the Vanta partner programme to combine hands-on ISMS support with a compliance platform that reduces manual evidence collection and helps keep controls active throughout the year. [Read the post](https://ictinstitute.nl/ict-institute-vanta-partner/).
+- ![Notion](assets/notion_small_logo.png) ICT Institute provides a free Notion Risk Register template to help organizations set up a core ISO 27001 risk management process in a practical, collaborative workspace. [Read the post](https://ictinstitute.nl/using-notion-for-your-isms/).
+
 ## List of templates
 
 ### AI & AI Act
