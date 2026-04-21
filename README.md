@@ -4,12 +4,12 @@ The templates on this page are made by the people of ICT Institute. We use these
 
 <table>
   <tr>
-    <td width="70" valign="middle"><img src="assets/ICTI%20logo%20small%20transparent.png" alt="ICT Institute" width="50" height="50" /></td>
-    <td valign="middle">See <a href="https://ictinstitute.nl/free-templates/">our website</a> for more in-depth articles and more detiled guidance.</td>
-  </tr>
-  <tr>
     <td width="70" valign="middle"><img src="assets/330px-YouTube_icon.png" alt="YouTube" width="50" height="50" /></td>
     <td valign="middle">Check out how to implement ISO 27001 with this ISMS template kit on our YouTube channel <a href="https://www.youtube.com/@sieuwertexplains">@SieuwertExplains</a>.</td>
+  </tr>
+  <tr>
+    <td width="70" valign="middle"><img src="assets/ICTI%20logo%20small%20transparent.png" alt="ICT Institute" width="50" height="50" /></td>
+    <td valign="middle">See <a href="https://ictinstitute.nl/free-templates/">our website</a> for more in-depth articles and more detiled guidance.</td>
   </tr>
   <tr>
     <td width="70" valign="middle"><img src="assets/vanta_partner.png" alt="Vanta" width="50" height="50" /></td>
