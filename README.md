@@ -36,7 +36,7 @@ The templates on this page are made by the people of ICT Institute. We use these
 - <a id="gdpr-joint-controllership"></a>[**GDPR-Joint-Controllership-Agreement.docx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/GDPR/GDPR-Joint-Controllership-Agreement/GDPR-Joint-Controllership-Agreement.docx) - Template for a joint controllership agreement under GDPR, clarifying roles, responsibilities, and cooperation between joint controllers.
 - <a id="gdpr-project-plan"></a>[**Project plan.docx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/GDPR/Project%20plan/Project%20plan.docx) - A GDPR-focused project plan template for planning and managing GDPR implementation activities and milestones.
 - <a id="gdpr-register-processing"></a>[**Register of processing activities.xlsx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/GDPR/Register%20of%20processing%20activities.xlsx) - Template register for recording personal data processing activities in line with GDPR Article 30 requirements.
-
+- <a id="gdpr-register-verwerking"></a>[**Register van verwerkingsactiviteiten.xlsx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/GDPR/Register%20verwerkingsactiviteiten.xlsx) - Template register voor het noteren van verwerkingen van persoonsgegevens.
 ### ISO 27001
 
 - <a id="iso-project-plan-docx"></a>[**Project plan.docx**](https://raw.githubusercontent.com/swzaken/freetemplates/main/ISO27001/Project%20plan/Template%20Project%20plan.docx) - A project plan template for planning and managing information security or ISO 27001 implementation projects, including activities, timelines, and deliverables.
