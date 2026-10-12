@@ -16,13 +16,14 @@ The templates on this page are made by the people of ICT Institute. We use these
     <td valign="middle">Op https://softwarezaken.nl/2022/01/gratis-27001-avg-templates/ kunt u terecht voor meer verdiepende artikelen, templates en ondersteuning.</td>
   </tr>
   <tr>
-    <td width="70" valign="middle"><img src="assets/vanta_partner.png" alt="Vanta" width="50" height="50" /></td>
-    <td valign="middle">ICT Institute has joined the Vanta partner programme to combine hands-on ISMS support with a compliance platform to reduces manual evidence collection. <a href="https://ictinstitute.nl/ict-institute-vanta-partner/">Read the post</a>.</td>
+    <td width="70" valign="middle"><img src="assets/ICTI%20logo%20small%20transparent.png" alt="ICT Institute" width="50" height="50" /></td>
+    <td valign="middle">Wij kunnen het ISMS inrichten op basis van meerdere tools, bijvoorbeeld Teams, Google Docs, Confluence, Notion, Trustbound of Vanta.</td>
   </tr>
   <tr>
-    <td width="70" valign="middle"><img src="assets/notion_small_logo.png" alt="Notion" width="50" height="50" /></td>
-    <td valign="middle">ICT Institute provides a free Notion ISMS template to help organizations set up a core ISO 27001 risk management process in a practical, collaborative workspace. <a href="https://ictinstitute.nl/using-notion-for-your-isms/">Read the post</a>.</td>
+    <td width="70" valign="middle"><img src="assets/ICTI%20logo%20small%20transparent.png" alt="ICT Institute" width="50" height="50" /></td>
+    <td valign="middle"> We can setup the ISMS using multiple tools such asTeams, Google Docs, Confluence, Notion, Trustbound or Vanta.</td>
   </tr>
+  <tr>
 </table>
 
 ## List of templates
