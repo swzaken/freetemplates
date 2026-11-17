@@ -82,6 +82,14 @@ in het Nederlands een Gegevensbeschermingseffectbeoordeling. Dit wordt gebruikt 
 
 - <a id="extra-isms-notion-pdf"></a>[**How_to_implement_your_ISMS_in_Notion.pdf**](https://raw.githubusercontent.com/swzaken/freetemplates/main/extra/How_to_implement_your_ISMS_in_Notion.pdf) - A guide for implementing your ISMS in Notion, providing practical instructions and best practices for setting up and managing your ISMS documentation and processes using Notion.
 
+### Our report plugin for Obsidian is now open to everyone.
+
+At ICT Institute we write our reports in plain Markdown: simple text files that anyone can open, read and edit, today and in twenty years. With our free ICT Institute Reports plugin for Obsidian you can do the same. You write in Markdown, see the finished report next to your text, and export a polished PDF with one click, with a cover page, page headers and an automatic table of contents.
+
+We believe your documents should belong to you. The plugin runs fully offline: no account, no cloud service, no data leaving your computer. Your reports are open .md files, not locked inside a vendor’s format or platform. That is what digital sovereignty means to us: you keep control over your own information and your own tools.
+
+The plugin is open source under CC BY 4.0.
+
 ## License
 Templates are provided under the Creative Commons license Attribution license. You can do the following with the templates:
 
